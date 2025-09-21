@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:21|september|2025
+## Register Number:25008324
+## Name:BARATH V
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,30 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+
+<pre>A AI included app ,simillar to current social media apps like whatssapp,which connects regional farmers with one another and other people related to farming like pest sellers and worker and buyers together.such that providing a more transparent exchange of goods eleimnating the requirment of middleman.the app's ai contains voice to text convertion in regional languages to provide therotical apporach for the questions for the farmers and the questions can be uploaded in a gloabal chat for pratical respone from other farmers.sellers [either the farmers and other domain related to farming] can sell there thier product here and a rating system isembedded to show the genuineness of thier product. it should also have a weather alert and update system with sms alert for critical situtions even in offline.farmers can even share updates offline via mesh networking. With an offline-first design, the app works reliably in low-connectivity areas, syncing data automatically when internet access is restored.</pre>
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<pre>The app is build using flutter.dart programing knowledge is used as the frontend and middleware language and this works on a clould database.the ai model provides solution using LLM algorithum and is integrated with NLP for accurate results.the ai also works on indictrans2 model to convert the result into the relgional language more accurately</pre>
+
+<img width="504" height="610" alt="{F46FDC4D-4D19-464E-9811-4276A7C3E44F}" src="https://github.com/user-attachments/assets/b2e60eaf-5416-4b4b-a4b8-0b103a1b3a8a" />
+
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<pre>feasibility:
+hybrid app working on both online and offline.simple interface and provides serurity to usesrs personal infomations.
+challenges:
+poor network connections in rural areas.building trust amoung users and initial investments and maintanice cost
+how to over come the challenges:
+running campiangs in remote villages and online advertisments.</pre>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<pre>eliminates the use of middleman and results in increaded profit for farmers evn when selling in the same price.
+this app trys to create a community of farmers resulting in sharing of knowledge and retification of mistakes by each other.</pre>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<pre>chatgpt.com [for knowing about the technolies to work with]
+youtube.com [for knowing about the problems of the farmers]
+https://flutter.dev/?utm_source=google&utm_medium=cpc&utm_campaign=pmax_cta_test_gads_brand&utm_content=apac_in&gclsrc=aw.ds&gad_source=1&gad_campaignid=19933487018&gbraid=0AAAAAC-INI8hbGBORkAad2pIPJno3JrnR&gclid=CjwKCAjwobnGBhBNEiwAu2mpFPykk6W2zTR6i1zBlyE68inr5y2zbHzw0PCq2RYeJMdhtttAYd4aiBoC1ZUQAvD_BwE  [the framework in which the app is created]</pre>
+
