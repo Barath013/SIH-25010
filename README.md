@@ -52,7 +52,8 @@ Agriculture, FoodTech & Rural Development
 
 
 ## Technical Approach
-<p>The app is build using flutter.dart programing knowledge is used as the frontend and middleware language and this works on a clould database.the ai model provides solution using LLM algorithum and is integrated with NLP for accurate results.the ai also works on indictrans2 model to convert the result into the relgional language more accurately</p>
+<p>The app is built using Flutter, with Dart as the primary programming language for both frontend and middleware development. It works on a cloud-based database.
+The AI component provides solutions using large language model (LLM) algorithms and is integrated with natural language processing (NLP) for accurate results. Additionally, the AI leverages the IndicTrans2 model to convert outputs into regional languages more accurately.</p>
 
 <img width="504" height="610" alt="{F46FDC4D-4D19-464E-9811-4276A7C3E44F}" src="https://github.com/user-attachments/assets/b2e60eaf-5416-4b4b-a4b8-0b103a1b3a8a" />
 
