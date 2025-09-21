@@ -42,29 +42,35 @@ Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 
-<p>A AI included app ,simillar to current social media apps like whatssapp,which connects regional farmers with one another and other people related to farming like pest sellers and worker and buyers together.such that providing a more transparent exchange of goods eliminating the requirment of middleman.the app's ai contains voice to text convertion in regional languages to provide therotical apporach for the questions for the farmers and the questions can be uploaded in a global chat for pratical respone from other farmers</p>.<p></p>sellers [either the farmers and other domain related to farming] can sell there thier product here and a rating system isembedded to show the genuineness of thier product. it should also have a weather alert and update system with sms alert for critical situtions even in offline.farmers can even share updates offline via mesh networking. With an offline-first design, the app works reliably in low-connectivity areas, syncing data automatically when internet access is restored.</p>
+<p>An AI-powered app, similar to current social media platforms like WhatsApp, designed to connect regional farmers with one another and with other stakeholders in the agricultural ecosystem, such as pest sellers, laborers, and buyers. The app facilitates a more transparent exchange of goods, eliminating the need for middlemen.</p>
+
+<p>The AI component includes voice-to-text conversion in regional languages, enabling farmers to ask theoretical questions, which can then be shared in a global chat for practical responses from other farmers.</p>
+
+<p>Sellers—whether farmers or other agriculture-related professionals—can list their products on the platform, with an embedded rating system to ensure the genuineness of their offerings. The app also includes a weather alert and update system, with SMS notifications for critical situations, even in offline mode.</p>
+
+<p>Farmers can share updates offline through mesh networking, ensuring continuous communication. With an offline-first design, the app works reliably in low-connectivity areas, automatically syncing data when internet access is restored.ty areas, syncing data automatically when internet access is restored.</p>
 
 
 ## Technical Approach
-<pre>The app is build using flutter.dart programing knowledge is used as the frontend and middleware language and this works on a clould database.the ai model provides solution using LLM algorithum and is integrated with NLP for accurate results.the ai also works on indictrans2 model to convert the result into the relgional language more accurately</pre>
+<p>The app is build using flutter.dart programing knowledge is used as the frontend and middleware language and this works on a clould database.the ai model provides solution using LLM algorithum and is integrated with NLP for accurate results.the ai also works on indictrans2 model to convert the result into the relgional language more accurately</p>
 
 <img width="504" height="610" alt="{F46FDC4D-4D19-464E-9811-4276A7C3E44F}" src="https://github.com/user-attachments/assets/b2e60eaf-5416-4b4b-a4b8-0b103a1b3a8a" />
 
 
 ## Feasibility and Viability
-<pre>feasibility:
-hybrid app working on both online and offline.simple interface and provides serurity to usesrs personal infomations.
-challenges:
+<p>feasibility:
+hybrid app working on both online and offline.simple interface and provides serurity to usesrs personal infomations.</p>
+<p>challenges:
 poor network connections in rural areas.building trust amoung users and initial investments and maintanice cost
 how to over come the challenges:
-running campiangs in remote villages and online advertisments.</pre>
+running campiangs in remote villages and online advertisments.</p>
 
 ## Impact and Benefits
-<pre>eliminates the use of middleman and results in increaded profit for farmers evn when selling in the same price.
-this app trys to create a community of farmers resulting in sharing of knowledge and retification of mistakes by each other.</pre>
+<p>eliminates the use of middleman and results in increaded profit for farmers evn when selling in the same price.
+this app trys to create a community of farmers resulting in sharing of knowledge and retification of mistakes by each other.</p>
 
 ## Research and References
-<pre>chatgpt.com [for knowing about the technolies to work with]
+<p>chatgpt.com [for knowing about the technolies to work with]
 youtube.com [for knowing about the problems of the farmers]
-https://flutter.dev/?utm_source=google&utm_medium=cpc&utm_campaign=pmax_cta_test_gads_brand&utm_content=apac_in&gclsrc=aw.ds&gad_source=1&gad_campaignid=19933487018&gbraid=0AAAAAC-INI8hbGBORkAad2pIPJno3JrnR&gclid=CjwKCAjwobnGBhBNEiwAu2mpFPykk6W2zTR6i1zBlyE68inr5y2zbHzw0PCq2RYeJMdhtttAYd4aiBoC1ZUQAvD_BwE  [the framework in which the app is created]</pre>
+https://flutter.dev/?utm_source=google&utm_medium=cpc&utm_campaign=pmax_cta_test_gads_brand&utm_content=apac_in&gclsrc=aw.ds&gad_source=1&gad_campaignid=19933487018&gbraid=0AAAAAC-INI8hbGBORkAad2pIPJno3JrnR&gclid=CjwKCAjwobnGBhBNEiwAu2mpFPykk6W2zTR6i1zBlyE68inr5y2zbHzw0PCq2RYeJMdhtttAYd4aiBoC1ZUQAvD_BwE  [the framework in which the app is created]</p>
 
